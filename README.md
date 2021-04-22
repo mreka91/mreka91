@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development at Yrgo!
 - 🔭 I’m working with [Pink Programming](https://www.pinkprogramming.se/en/) to increase the number of women who code.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My husband and I brew beer. Fancy a Glitter Pumpkin Spice Ale or a Poppyseed lemon Sour?
+- ⚡ Fun fact: My husband and I brew beer. Fancy a Glitter Pumpkin Spice Ale or a Poppyseed Lemon Sour?
 - 📫 Originally from Budapest HU, now living in Göteborg SE
 
 
