@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/rekamadarasz/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/rekamadarasz//)](https://www.linkedin.com/in/https://www.linkedin.com/in/rekamadarasz//) [![Github Badge](https://img.shields.io/badge/-mreka91-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mreka91/)](https://www.github.com/mreka91/)
 
 - 🌱 I’m currently learning web development at Yrgo!
-- 🔭 I’m currently working with Pink Programming to increase the number of women who code.
+- 🔭 I’m working with Pink Programming to increase the number of women who code.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My husband and I brew beer. Fancy a Glitter Pumpkin Spice Ale or a Poppyseed lemon Sour?
 - 📫 Originally from Budapest HU, now living in Göteborg SE
